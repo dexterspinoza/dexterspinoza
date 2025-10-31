@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dexterspinoza
-- 👀 I’m interested in the développement full stack
+- 👀 I’m the développement full stack
 - 🌱 I’m currently learning le développement font end and back end
 - 💞️ I’m looking to collaborate on all project of développement
 - 📫 How to reach me dexternkamta@gmail.com
